@@ -15,6 +15,7 @@ dependencies:
 
   flutter_screenutil: ^5.9.0
   cupertino_icons: ^1.0.8
+  l: ^4.0.2
 
 
   #state management
@@ -24,6 +25,9 @@ dependencies:
 
   #for locale storage
   flutter_secure_storage: ^9.0.0
+
+  #for neumorphic style:
+  neumorphic_button: ^0.0.1+2
 
 dev_dependencies:
   flutter_test:
