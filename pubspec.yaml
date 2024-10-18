@@ -16,6 +16,15 @@ dependencies:
   flutter_screenutil: ^5.9.0
   cupertino_icons: ^1.0.8
 
+
+  #state management
+  bloc: ^8.1.4
+  equatable: ^2.0.5
+  flutter_bloc: ^8.1.6
+
+  #for locale storage
+  flutter_secure_storage: ^9.0.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
